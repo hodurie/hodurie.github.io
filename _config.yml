@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en"
+locale                   : "ko-KR"
 title                    : "Hodurie's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -111,14 +111,15 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "이것 저것 기록해 보는 공간"
   location         : "Republic of Korea"
-  email            :
+  email            : "hodurie@email.com"
+  github           : "hodurie"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:hodurie@email.com
+      # url: mailto:hodurie@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://hodurie.github.io"
+      # url: "https://hodurie.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -127,7 +128,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/hodurie"
+      # url: "https://github.com/hodurie"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -142,8 +143,8 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "https://github.com/hodurie"
-      # url:
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/hodurie"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
