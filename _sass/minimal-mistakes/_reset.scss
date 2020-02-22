@@ -4,22 +4,23 @@
 
 * { box-sizing: border-box; }
 
+/* 사이트의 크기에 따라 font-size 조절하기*/
 html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 16px;
+  font-size: 12px;
 
   @include breakpoint($medium) {
-    font-size: 13px;
+    font-size: 12px;
   }
 
   @include breakpoint($large) {
-    font-size: 16px;
+    font-size: 14px;
   }
-
+/* 전체 화면으로 했을 때 본문 font-size*/
   @include breakpoint($x-large) {
-    font-size: 18px;
+    font-size: 14px;
   }
 
   -webkit-text-size-adjust: 100%;
