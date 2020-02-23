@@ -117,7 +117,7 @@ author:
       url: mailto:hodurie@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://hodurie.github.io"
+      # url: 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -129,7 +129,7 @@ author:
       url: "https://github.com/hodurie"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/hodurie"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -151,7 +151,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/hodurie"
+      # url: "https://instagram.com/"
 
 
 # Reading Files
