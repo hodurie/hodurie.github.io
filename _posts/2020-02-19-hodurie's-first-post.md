@@ -1,10 +1,12 @@
 ---
 title: "Hodurie's Blog"
-category : 
+type: post
+permalink: /diary/
+category: 
     - hodurie
-tag :
+tag:
     - hodurie
-siderbar_main : true
+siderbar_main: true
 ---
 
 ## github.io 시작
