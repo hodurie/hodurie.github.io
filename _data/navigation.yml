@@ -7,4 +7,26 @@ main:
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
-  #   url: /sitemap/
+  #   url: /sitemap/zz
+
+side_bar:
+  - title: "Diary"
+    url: /diary/
+
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Study"
+    children:
+      - title: "Pyton"
+        url: /python/
+      - title: "R"
+        url: /R/
+      - title: "etc"
+        url: /ect/
+
+  - title: "Kaggle"
+    url: /kaggle/
+  
+  - title: "Error"
+    url: /error/ 
