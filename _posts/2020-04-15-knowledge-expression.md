@@ -1,5 +1,5 @@
 ---
-title: "인공지능이란?"
+title: "지식 표현과 추론"
 type: post
 permalink: /study/ai/
 category: 
