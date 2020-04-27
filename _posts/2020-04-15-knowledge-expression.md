@@ -1,7 +1,7 @@
 ---
 title: "지식 표현과 추론"
 type: post
-permalink: /study/ai/
+permalink: /study/ai/ke
 category: 
     - STUDY
         - etc

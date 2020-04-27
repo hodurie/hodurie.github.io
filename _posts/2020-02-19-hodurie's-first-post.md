@@ -1,7 +1,7 @@
 ---
 title: "Blog 시작"
 type: post
-permalink: /diary/
+permalink: /diary/first
 category: 
     - hodurie
 tag:

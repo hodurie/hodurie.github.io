@@ -1,7 +1,7 @@
 ---
 title: "탐색과 추론"
 type: post
-permalink: /study/ai/
+permalink: /study/ai/explor
 category: 
     - STUDY
         - etc

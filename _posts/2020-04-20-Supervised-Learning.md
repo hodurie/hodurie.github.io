@@ -1,7 +1,7 @@
 ---
 title: "지도학습"
 type: post
-permalink: /study/ai/
+permalink: /study/ai/sl
 category: 
     - STUDY
         - etc
